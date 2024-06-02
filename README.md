@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I am [Your Name], a dedicated cybersecurity enthusiast with over 15 years of experience as a Linux user and a senior professional in the technology field. I am passionate about protecting sensitive information and innovating security solutions.
+Hello! I am Sidiney, a dedicated cybersecurity enthusiast with over 15 years of experience as a Linux user and a senior professional in the technology field. I am passionate about protecting sensitive information and innovating security solutions.
 
 ## 🔭 Currently Working On...
 
@@ -51,7 +51,7 @@ Feel free to ask for any adjustments or additional details!
 Bem-vindo ao meu perfil GitHub
 Sobre mim
 
-Olá! Eu sou [Seu Nome], um entusiasta dedicado à cibersegurança com mais de 15 anos de experiência como usuário de Linux e um profissional sênior na área de tecnologia. Sou apaixonado por proteger informações sensíveis e inovar em soluções de segurança.
+Olá! Eu sou Sidiney, um entusiasta dedicado à cibersegurança com mais de 15 anos de experiência como usuário de Linux e um profissional sênior na área de tecnologia. Sou apaixonado por proteger informações sensíveis e inovar em soluções de segurança.
 🔭 Atualmente estou trabalhando em ...
 
 Estou atualmente trabalhando em projetos de cibersegurança que envolvem a implementação de protocolos de segurança robustos e a educação de equipes sobre as melhores práticas de segurança.
