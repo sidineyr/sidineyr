@@ -1,13 +1,5 @@
 ## Hi there 👋
 
-<!--
-**sidineyr/sidineyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Sure, here is the translation:
-
----
-
 # Welcome to My GitHub Profile
 
 ## About Me
