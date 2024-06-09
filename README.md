@@ -34,6 +34,7 @@ You can find me on LinkedIn ((https://www.linkedin.com/in/sidineyrodrigues/))
 
 My pronouns are he/him.
 
+
 ## ⚡ Fun Fact...
 
 I am an avid board game enthusiast and love solving complex puzzles in my spare time. I am always looking for challenges that test my analytical and problem-solving skills.
@@ -41,3 +42,6 @@ I am an avid board game enthusiast and love solving complex puzzles in my spare 
 ---
 
 Feel free to ask for any adjustments or additional details!
+
+You can donwnload my poetry book here. https://drive.google.com/drive/folders/1Umgzepi1md7o6--ovcGta-eWWcOoM7d9?usp=sharing 
+
