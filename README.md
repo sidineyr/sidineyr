@@ -1,43 +1,56 @@
-## Hi there 👋
+# Sidiney Rodrigues GitHub Portfolio
 
-# Welcome to My GitHub Profile
+## Introduction
+Welcome to my GitHub portfolio! My name is Sidiney Rodrigues, and I am a passionate professional with a diverse background in education, data analysis, and cybersecurity. With over a decade of experience in various roles, I have honed my skills in project management, team leadership, and innovative educational solutions.
 
-## About Me
+## Background
+- **Education**: Bachelor's degree in Education/Pedagogy from Universidade do Vale do Itajaí | Univali.
+- **Certifications**: Foundations of Cybersecurity, Automate Cybersecurity Tasks with Python, and more.
+- **Languages**: Professional working proficiency in English and elementary proficiency in Spanish.
 
-Hello! I am Sidiney, a dedicated cybersecurity enthusiast with over 15 years of experience as a Linux user and a senior professional in the technology field. I am passionate about protecting sensitive information and innovating security solutions.
+## Professional Experience
+- **GitHub**: Specialist in Education (2013 - Present)
+  - Focus on leveraging technology to deliver unique learning experiences.
+  - Developed digital platforms and virtual learning environments.
 
-## 🔭 Currently Working On...
+- **Prefeitura Municipal de São Francisco do Sul**: Pedagogue and Specialist in Education (2007 - 2014)
+  - Led a team of 40 educators in an educational project promoting inclusion and extending school hours for vulnerable families.
 
-I am currently working on cybersecurity projects that involve implementing robust security protocols and educating teams on best security practices.
+- **Governo do Estado de Santa Catarina**: Data Analyst Manager (2010 - 2011)
+  - Worked on projects measuring social indicators, including poverty and violence, using data analysis to inform public policies.
 
-## 🌱 Currently Learning...
+- **Prefeitura de Joinville**: Full Professor and Educational Technology Specialist (2007)
+  - Created educational blogs and provided technological support for Linux-based machines in educational settings.
 
-I am enhancing my knowledge in advanced cryptography, multifactor authentication, and vulnerability management. Additionally, I am exploring new emerging technologies in the field of cybersecurity.
+## Skills
+- **Top Skills**: Authentication, vulnerability assessment, threat analysis.
+- **Data Analysis Tools**: Proficient in descriptive statistics, data modeling, and data visualization.
+- - **Educator Skills**:
+  - Curriculum development and instructional design
+  - Classroom management and student engagement
+  - Educational technology integration
+  - Culturally responsive teaching
+- **Data Analyst Skills**:
+  - Data cleaning and preprocessing
+  - Statistical analysis and interpretation
+  - Data visualization and reporting
+  - Predictive modeling and machine learning
 
-## 👯 Looking to Collaborate On...
+## Notable Projects
+- **Innovative Educational Projects**: Developed and implemented innovative teaching methods and digital learning platforms.
+- **Community Engagement**: Designed culturally responsive curricular resources and facilitated community collaboration events.
 
-I am looking to collaborate on open-source projects related to cybersecurity and data protection tools, as well as initiatives that promote inclusive and accessible digital security.
+## Certifications
+- **Play It Safe: Manage Security Risks**
+- **Connect and Protect: Networks and Network Security**
 
-## 🤔 Looking for Help With...
+## Contact Information
 
-I am interested in learning more about artificial intelligence applied to cybersecurity and how to use machine learning to detect and mitigate cyber threats.
+- **LinkedIn**: [sidineyr](https://www.linkedin.com/in/sidineyrodrigues)
+- **GitHub**: [sidineyr](https://github.com/sidineyr)
 
-## 💬 Ask Me About...
+Thank you for visiting my portfolio!
 
-Ask me about cybersecurity, Linux, vulnerability management, and best security practices for organizations. I love sharing knowledge and discussing new ideas.
-
-## 📫 How to Reach Me...
-
-You can find me on LinkedIn ((https://www.linkedin.com/in/sidineyrodrigues/)) 
-
-## 😄 Pronouns...
-
-My pronouns are he/him.
-
-
-## ⚡ Fun Fact...
-
-I am an avid board game enthusiast and love solving complex puzzles in my spare time. I am always looking for challenges that test my analytical and problem-solving skills.
 
 ---
 
