@@ -1,0 +1,48 @@
+class Professional:
+    def __init__(self, id, skills, location, economic_status):
+        self.id = id
+        self.skills = skills
+        self.location = location
+        self.economic_status = economic_status  # Ex: "vulnerável", "estável"
+
+class Task:
+    def __init__(self, id, required_skills, reward):
+        self.id = id
+        self.required_skills = required_skills
+        self.reward = reward
+
+def match_professionals_to_tasks(professionals, tasks):
+    matches = []
+    for task in tasks:
+        for professional in professionals:
+            if set(task.required_skills).issubset(professional.skills):
+                matches.append((professional.id, task.id, task.reward))
+                break  # Atribui a tarefa ao primeiro profissional qualificado
+    return matches
+
+def redistribute_income(matches, professionals):
+    total_income = sum(match[2] for match in matches)
+    redistribution_pool = total_income * 0.1  # 10% para redistribuição
+
+    # Distribui para profissionais em situação vulnerável
+    for professional in professionals:
+        if professional.economic_status == "vulnerável":
+            professional.income += redistribution_pool / len([p for p in professionals if p.economic_status == "vulnerável"])
+
+# Exemplo de uso
+professionals = [
+    Professional(1, ["design", "marketing"], "São Paulo", "vulnerável"),
+    Professional(2, ["programação", "TI"], "Rio de Janeiro", "estável")
+]
+
+tasks = [
+    Task(1, ["design"], 1000),
+    Task(2, ["programação"], 1500)
+]
+
+matches = match_professionals_to_tasks(professionals, tasks)
+redistribute_income(matches, professionals)
+
+print("Matches:", matches)
+for professional in professionals:
+    print(f"Profissional {professional.id} recebeu {professional.income}")
