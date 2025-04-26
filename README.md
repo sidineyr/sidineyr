@@ -1,79 +1,76 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Portfólio</title>
-    <link rel="stylesheet" href="styles.css">
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-</head>
-<body>
-    <header>
-        <h1>Bem-vindo ao meu Portfólio!</h1>
-        <p>Desenvolvedor apaixonado por tecnologia e inovação</p>
-    </header>
+# 👋 Bem-vindo ao meu Portfólio!
 
-    <main>
-        <section id="about-me">
-            <h2>Sobre Mim</h2>
-            <p>Sou um desenvolvedor com experiência em diversas linguagens de programação e ferramentas. Aqui você encontrará informações sobre meus projetos, habilidades e desempenho.</p>
-        </section>
+Desenvolvedor apaixonado por tecnologia e inovação.
 
-        <section id="performance-metrics">
-            <h2>Métricas de Desempenho</h2>
-            <canvas id="performanceChart" width="400" height="200"></canvas>
-        </section>
+---
 
-        <section id="programming-languages">
-            <h2>Linguagens de Programação</h2>
-            <div class="icons">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3">
-            </div>
-        </section>
-    </main>
+## Sobre Mim
 
-    <footer>
-        <p>&copy; 2025 Desenvolvido por Sidineyr</p>
-    </footer>
+Sou um desenvolvedor com experiência em diversas linguagens de programação e ferramentas.  
+Aqui você encontrará informações sobre meus projetos, habilidades e desempenho.
 
-    <script>
-        const ctx = document.getElementById('performanceChart').getContext('2d');
-        const performanceChart = new Chart(ctx, {
-            type: 'bar',
-            data: {
-                labels: ['JavaScript', 'Python', 'Java', 'HTML5', 'CSS3'],
-                datasets: [{
-                    label: 'Nível de Proficiência (%)',
-                    data: [90, 85, 80, 95, 90],
-                    backgroundColor: [
-                        'rgba(255, 99, 132, 0.2)',
-                        'rgba(54, 162, 235, 0.2)',
-                        'rgba(255, 206, 86, 0.2)',
-                        'rgba(75, 192, 192, 0.2)',
-                        'rgba(153, 102, 255, 0.2)'
-                    ],
-                    borderColor: [
-                        'rgba(255, 99, 132, 1)',
-                        'rgba(54, 162, 235, 1)',
-                        'rgba(255, 206, 86, 1)',
-                        'rgba(75, 192, 192, 1)',
-                        'rgba(153, 102, 255, 1)'
-                    ],
-                    borderWidth: 1
-                }]
-            },
-            options: {
-                scales: {
-                    y: {
-                        beginAtZero: true
-                    }
-                }
-            }
-        });
-    </script>
-</body>
-</html>
+---
+
+## 🚀 Métricas de Desempenho
+
+| Linguagem | Nível de Proficiência (%) |
+|:---------:|:-------------------------:|
+| JavaScript | 90% |
+| Python | 85% |
+| Java | 80% |
+| HTML5 | 95% |
+| CSS3 | 90% |
+
+---
+
+## 🛠️ Linguagens de Programação
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="50" height="50"/>
+</div>
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sidineyr&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidineyr&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidineyr&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+</p>
+
+---
+
+## 🎖️ Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Badge JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Badge Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Badge Java"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Badge HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Badge CSS3"/>
+</p>
+
+---
+
+## 🐍 Snake Animation (Contribuições)
+
+<p align="center">
+  <img src="https://github.com/sidineyr/sidineyr/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">
+  &copy; 2025 Desenvolvido por <strong>Sidineyr</strong>
+</p>
