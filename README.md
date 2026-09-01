@@ -8,9 +8,46 @@ Pedagogo, educador digital e desenvolvedor apaixonado por tecnologia, aprendizag
 
 Sou **Sidiney Rodrigues**, pedagogo formado pela Universidade do Vale do Itajaí — Univali, com trajetória em educação, tecnologia educacional, inclusão, análise de dados e infraestrutura de informática.
 
-Tenho mais de duas décadas de contato com tecnologia e experiência com ambientes Linux, redes, desenvolvimento web, Python, ciência de dados e segurança digital. Atualmente, desenvolvo projetos que aproximam **educação, inteligência artificial, música, escrita e ciência aberta**, como o portal educacional [Chemical](https://github.com/sidineyr/Chemical) e o projeto de produção musical **Simple DjIA**.
+Tenho mais de duas décadas de contato com tecnologia e experiência com ambientes Linux, redes, desenvolvimento web, Python, ciência de dados e segurança digital. Atualmente, desenvolvo projetos que aproximam **educação, inteligência artificial, música, escrita e ciência aberta**, entre eles o [Horizonte](https://horizonte-vocacional.blubier.chatgpt.site), o portal educacional [Chemical](https://github.com/sidineyr/Chemical) e o projeto de produção musical **Simple DjIA**.
 
 Aqui você encontrará meus projetos, estudos, experimentos e produções independentes.
+
+---
+
+## 🌅 Projeto em destaque — Horizonte
+
+<p align="center">
+  <a href="https://horizonte-vocacional.blubier.chatgpt.site">
+    <img src="https://raw.githubusercontent.com/sidineyr/horizonte/main/public/og.png" alt="Horizonte — exploração vocacional educativa" width="900"/>
+  </a>
+</p>
+
+O **Horizonte** é uma ferramenta gratuita e de código aberto para exploração vocacional educativa, especialmente pensada para estudantes na fase do ENEM. A experiência começa com **“Eu quero ser…”** e ajuda cada pessoa a investigar interesses, caminhos de formação e próximos passos — sem escolher uma profissão por ela.
+
+- **29 perguntas:** 18 sobre interesses, 6 sobre habilidades percebidas e 5 sobre contexto.
+- **Painel de possibilidades:** gráfico dos seis interesses, sugestões em destaque, 12 grupos de caminhos, cursos para investigar e atividades de exploração.
+- **Seis idiomas:** português, inglês, espanhol, alemão, francês e mandarim em chinês simplificado.
+- **Privacidade por padrão:** sem cadastro; as respostas permanecem apenas na sessão do navegador e somente um contador agregado de conclusões é mantido.
+- **Projeto aberto:** metodologia, limites, testes e documentação estão disponíveis para consulta e colaboração.
+
+> O Horizonte não é um teste psicológico ou diagnóstico, não estima aptidão e não usa IA para interpretar respostas ou gerar recomendações.
+
+**Tecnologias:** TypeScript · React 19 · Vinext/Vite · Tailwind CSS · Recharts · Cloudflare Workers/D1 · Node.js · pnpm
+
+<p align="center">
+  <a href="https://horizonte-vocacional.blubier.chatgpt.site">
+    <img src="https://img.shields.io/badge/Experimentar-Horizonte-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Experimentar o Horizonte"/>
+  </a>
+  <a href="https://github.com/sidineyr/horizonte">
+    <img src="https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver o código do Horizonte no GitHub"/>
+  </a>
+  <a href="https://github.com/sidineyr/horizonte/blob/main/docs/METODOLOGIA.md">
+    <img src="https://img.shields.io/badge/Ler-Metodologia-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Ler a metodologia do Horizonte"/>
+  </a>
+  <a href="https://github.com/sidineyr/horizonte/issues">
+    <img src="https://img.shields.io/badge/Contribuir-Issues-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Contribuir com o Horizonte"/>
+  </a>
+</p>
 
 ---
 
@@ -28,10 +65,12 @@ Aqui você encontrará meus projetos, estudos, experimentos e produções indepe
 
 ---
 
-## 🛠️ Linguagens de Programação
+## 🛠️ Linguagens e Tecnologias
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openjdk/openjdk-original.svg" alt="Java" title="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="50" height="50"/>
