@@ -19,8 +19,6 @@ Transformo problemas de aprendizagem em experiências digitais **claras, inclusi
 
 **Escutar → simplificar → prototipar → testar → medir**
 
-## Quatro provas de trabalho
-
 Não digo apenas o que sei — deixo você testar.
 
 | Projeto | Problema enfrentado | Evidência entregue |
